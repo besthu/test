@@ -8,3 +8,6 @@ master
 
 
 10:23
+
+
+company_computer fix
